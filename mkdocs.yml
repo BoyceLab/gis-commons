@@ -1,0 +1,79 @@
+site_name: GIS Commons
+site_description: A prototype resource on geographic information systems (GIS), mapping, data standards and ontologies for ALS and other neurodegenerative diseases. Not officially affiliated with GeoALS or Esri.
+site_url: https://boycelab.github.io/gis-commons/
+repo_url: https://github.com/BoyceLab/gis-commons
+repo_name: BoyceLab/gis-commons
+edit_uri: edit/main/docs/
+copyright: Prototype only. Not officially affiliated with GeoALS or Esri. Content CC BY 4.0, code MIT.
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle: {icon: material/weather-night, name: Dark mode}
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle: {icon: material/weather-sunny, name: Light mode}
+  font: false
+extra_css: [assets/extra.css]
+extra_javascript: [assets/extra.js]
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc: {permalink: true, toc_depth: 3}
+plugins:
+  - search
+nav:
+  - Home: index.md
+  - Start here:
+      - GIS in plain language: start/gis-basics.md
+      - Learning paths by role: start/learning-paths.md
+      - Glossary: start/glossary.md
+  - Maps and videos:
+      - GeoALS maps and apps: maps/tools.md
+      - Video gallery: maps/videos.md
+  - Esri toolbox:
+      - Crediting maps and software: esri/credits.md
+      - ArcGIS tools and training: esri/tools.md
+  - Environmental mapping:
+      - Overview and study design: environment/overview.md
+      - Exposure examples: environment/examples.md
+      - Data sources and linkage limits: environment/data-sources.md
+      - References and provenance: environment/references.md
+  - Standards and ontologies:
+      - The standards stack: standards/overview.md
+      - Communities to join: standards/communities.md
+  - Grant toolkit:
+      - Working with GeoALS on a grant: grants/index.md
+      - Grant starter ideas: grants/starter-ideas.md
+      - Proposal language: grants/language.md
+      - Budget and letters: grants/budget.md
+      - Request checklist: grants/checklist.md
+  - Privacy:
+      - Location privacy and governance: governance/privacy.md
+  - For the board:
+      - Program plan: board/roadmap.md
+      - Items to confirm: board/confirm.md
+  - About:
+      - Acknowledgements and sources: about/acknowledgements.md
+      - Contribute: about/contribute.md

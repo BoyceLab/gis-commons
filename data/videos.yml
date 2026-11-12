@@ -1,0 +1,162 @@
+# Videos on the ALS Geospatial Hub YouTube channel (GeoALS).
+# Snapshot: 12 November 2026, read from the channel's public feed and uploads playlist.
+# scripts/update_videos.py adds new uploads to this file; descriptions and themes are edited by hand.
+channel:
+  name: ALS Geospatial Hub
+  handle: "@alsgeospatialhub5222"
+  id: UCooWOWqXiYdF9Y3IsWCjBkA
+  url: https://www.youtube.com/@alsgeospatialhub5222
+  uploads_playlist: UUooWOWqXiYdF9Y3IsWCjBkA
+videos:
+  - id: Cqv6NQdl94E
+    title: Reauthorization Act for ALS Map
+    published: 2026-04-29
+    theme: Advocacy
+    description: >-
+      A walk through the map that shows whether each United States Representative has cosponsored the
+      reauthorization of the Accelerating Access to Critical Therapies for ALS Act (ACT for ALS). Where a
+      Representative has not signed on, the map supplies district facts an advocate can use when writing or calling.
+    links:
+      - {label: Glen Rouse ALS Legislative Viewer, url: "https://experience.arcgis.com/experience/432276c3289a4839be09c409b817ebd2"}
+  - id: _Mt1LcQK37c
+    title: GeoALS - 9 days to Christmas
+    published: 2025-12-16
+    theme: Advocacy
+    description: >-
+      Part of a holiday countdown of ways to support the ALS community. This entry asks viewers to invite their
+      legislators to join the ALS Caucus and shows the House and Senate caucus membership maps, with thanks to
+      I AM ALS and the wider community for building the caucus.
+    links:
+      - {label: House ALS Caucus map, url: "https://arcg.is/0uuimP0"}
+      - {label: Senate ALS Caucus map, url: "https://arcg.is/1r0LvW1"}
+  - id: 9zpXuX_jDG8
+    title: GeoALS - 10 days to Christmas
+    published: 2025-12-16
+    theme: Advocacy
+    description: >-
+      The opening entry in the holiday countdown. It shows how to find your legislators, see their record on
+      ALS legislation, and check whether they belong to the ALS Caucus.
+    links:
+      - {label: Glen Rouse ALS Legislative Viewer, url: "https://experience.arcgis.com/experience/432276c3289a4839be09c409b817ebd2"}
+  - id: DL0oNOEs6iI
+    title: GeoALS Clinic Locator 2.0
+    published: 2025-11-21
+    theme: Care
+    description: >-
+      Introduces version 2.0 of the ALS Clinic Advisor Locator, where people in the ALS and motor neuron disease
+      (MND) community can find, rate, review and add clinics. The clinic database draws on information shared by
+      the ALS Association, the Veterans Administration, the Muscular Dystrophy Association (MDA), the HEALEY ALS
+      Platform Trial and the International Alliance of ALS/MND Associations.
+    links:
+      - {label: ALS Clinic Advisor Locator, url: "https://experience.arcgis.com/experience/8ec9920c6a9441d9803dcaf7935a67b7"}
+  - id: nBxY4QUmHhY
+    title: Glen Rouse ALS Legislative Viewer 2.0
+    published: 2025-05-03
+    theme: Advocacy
+    description: >-
+      A tour of version 2.0 of the Glen Rouse ALS Legislative Viewer. For each member of Congress the viewer
+      reports support for ALS policy, alongside facts about the ALS community in that state or district that
+      advocates can bring to meetings about research funding and access to treatment.
+    links:
+      - {label: Glen Rouse ALS Legislative Viewer, url: "https://experience.arcgis.com/experience/432276c3289a4839be09c409b817ebd2"}
+  - id: 1ngmbjqH-fg
+    title: Continue to fund the CDC National ALS Registry
+    published: 2025-04-26
+    theme: Advocacy
+    description: >-
+      A message from GeoALS founder Pat Dolan about the Centers for Disease Control and Prevention (CDC) National
+      ALS Registry and Biorepository, recorded after a draft federal budget memo proposed ending its funding.
+      The video describes what the Registry has supported since 2010 and asks viewers to contact their legislators.
+    links:
+      - {label: CDC National ALS Registry, url: "https://www.cdc.gov/als/"}
+  - id: 4p8DOVcszlU
+    title: Lou Gehrig Day - Do You Know Lou StoryMap
+    published: 2024-05-29
+    theme: Stories
+    description: >-
+      A short tour of an ArcGIS StoryMap created by Will Hackney for Lou Gehrig Day, June 2. The story map tells
+      who Lou Gehrig was and lists ways to act, including taking the ALS Clinic Advisor survey.
+    links:
+      - {label: Do You Know Lou story map, url: "https://arcg.is/1Xjfvy"}
+  - id: 26VlhCwsvBc
+    title: Global ALS / MND Clinic Locator (12/03/2023)
+    published: 2024-01-03
+    theme: Care
+    description: >-
+      A demonstration of the global ALS and MND clinic locator as it stood in December 2023, the starting point
+      for the worldwide clinic map built with the International Alliance of ALS/MND Associations. The channel
+      lists no written description for this video.
+    links: []
+  - id: 0VrPGdp6cEc
+    title: "The World Health Organization - Knowledge Series | ALS Geo Hub: Mapping for Care, Cure & Community"
+    published: 2023-12-12
+    theme: Research
+    description: >-
+      A webinar in the World Health Organization (WHO) GIS Centre for Health Knowledge Series. Patrick Dolan,
+      Clare Durrett, Danielle Boyce and Brian Baldwin, members of the Mappers, explain how the ALS Geospatial Hub
+      brings data together by geography to support care, research and advocacy.
+    links:
+      - {label: WHO GIS Centre for Health webinar page, url: "https://experience.arcgis.com/experience/852498d9cb89483ca3b8b45682c2623e"}
+  - id: NLGuImhcELo
+    title: Celebrating GIS Day by Collaborating with the ALS Community
+    published: 2023-11-16
+    theme: Stories
+    description: >-
+      Recorded for GIS Day. Pat Dolan and Amanda Stanko preview the Global Clinic Application and describe the
+      organizations collaborating on it for the international ALS and MND community.
+    links:
+      - {label: Meet the Mappers, url: "https://als-geospatial-hub-nonprofit.hub.arcgis.com/pages/the-people"}
+  - id: s9Z6kMcSxAI
+    title: GIS Day by Brian Baldwin
+    published: 2023-11-15
+    theme: Stories
+    description: >-
+      Brian Baldwin marks GIS Day by describing his favorite map on the ALS Geospatial Hub.
+    links:
+      - {label: ALS Geospatial Hub, url: "https://als-geospatial-hub-nonprofit.hub.arcgis.com/"}
+  - id: sMAhvFXz2H8
+    title: KCBS Segment on Pat Dolan and ALS Efforts
+    published: 2023-09-22
+    theme: Stories
+    description: >-
+      A KCBS news segment about Pat Dolan and his mapping work for the ALS community. The channel lists no
+      written description for this video.
+    links: []
+  - id: 1vZd74qdI68
+    title: Mapping the CDC National ALS Registry
+    published: 2023-09-01
+    theme: Research
+    description: >-
+      A presentation from the CDC National ALS Registry Research Symposium on 30 August 2023. Pat Dolan,
+      Earl Sarow, Danielle Boyce and Clare Durrett, with support from the CDC, used GIS to map the Registry's
+      self-enrolled surveys and study access to clinical trials, common lived locations, and communities that
+      are under-reported in the Registry.
+    links:
+      - {label: ALS Geospatial Hub, url: "https://als-geospatial-hub-nonprofit.hub.arcgis.com/"}
+  - id: xkoAwLQLvyA
+    title: Active ALS Research Projects
+    published: 2023-01-31
+    theme: Research
+    description: >-
+      A demonstration of the map of active ALS research projects, which can be viewed by House district and by
+      state. The channel lists no written description for this video.
+    links:
+      - {label: Hub map gallery, url: "https://als-geospatial-hub-nonprofit.hub.arcgis.com/pages/the-maps"}
+  - id: 7jOmK_Df6so
+    title: ALS Geospatial Hub Webinar
+    published: 2023-01-31
+    theme: Research
+    description: >-
+      A webinar hosted by I AM ALS on 19 January 2023. It gives an overview of the maps behind the ALS Geospatial
+      Hub, covering the maps for care, the maps for advocacy, and the ALS Clinic Experience Survey.
+    links:
+      - {label: Maps for care, url: "https://arcg.is/1KziLf0"}
+      - {label: Maps for advocacy, url: "https://arcg.is/ynWD4"}
+      - {label: Hub map gallery, url: "https://als-geospatial-hub-nonprofit.hub.arcgis.com/pages/the-maps"}
+elsewhere:
+  - title: How Pat Dolan used eye-gaze technology to make maps
+    url: https://youtu.be/Ur3EJC114X8
+    note: Linked from the WHO GIS Centre for Health webinar page. Hosted on another channel.
+  - title: Esri video about Pat Dolan and his ALS mapping work
+    url: https://mediaspace.esri.com/media/t/1_ra0lvwh7/244321572
+    note: Hosted on Esri MediaSpace.

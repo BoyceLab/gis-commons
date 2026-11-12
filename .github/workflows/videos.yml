@@ -1,0 +1,19 @@
+name: Refresh video gallery
+on:
+  schedule: [{cron: "17 9 * * 1"}]
+  workflow_dispatch:
+permissions: {contents: write, pull-requests: write}
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pyyaml
+      - run: python scripts/update_videos.py && python scripts/generate.py
+      - uses: peter-evans/create-pull-request@v6
+        with:
+          title: New videos on the ALS Geospatial Hub channel
+          body: Review the theme and description of each new entry in data/videos.yml before merging.
+          branch: video-refresh
