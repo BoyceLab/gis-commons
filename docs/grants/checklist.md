@@ -1,6 +1,6 @@
 # Request checklist
 
-What an applicant would send GeoALS, and what GeoALS would provide in return. The process is to be discussed with GeoALS.
+Use this checklist to prepare a partnership discussion and agree on the materials needed for a specific application.
 
 ## What GeoALS would need from an applicant
 
@@ -12,8 +12,9 @@ What an applicant would send GeoALS, and what GeoALS would provide in return. Th
 - [ ] Budget ceiling and the funder's indirect cost policy
 - [ ] The documents the funder requires from partners, with any templates
 - [ ] Your grants office contact for subaward paperwork
+- [ ] For training: topic, audience, group size, current skills, desired output, format, accessibility needs and software access
 
-## What GeoALS would provide
+## Partner materials to request
 
 | Arrangement | Materials |
 |---|---|
@@ -21,8 +22,9 @@ What an applicant would send GeoALS, and what GeoALS would provide in return. Th
 | Consultant | Consultant letter with role and rate, summary of qualifications |
 | Fee-for-service | Quote with deliverables and schedule |
 | Letter of support | Signed letter |
+| Expert-led training | Learning objectives, instructor scope, agenda, required software access, deliverables, follow-up plan and budget |
 
-Organizational documents for proposals are to be discussed with GeoALS and are not published on this site.
+Request any required organizational documents directly from the partner through an appropriate private channel.
 
 ## After an award
 
@@ -31,6 +33,6 @@ Organizational documents for proposals are to be discussed with GeoALS and are n
 - Data use agreement, if data move between organizations
 - A kickoff meeting to confirm deliverables, schedule and the review process for public products
 
-## How requests would be received
+## Learn more
 
-To be discussed with GeoALS. To learn about GeoALS, visit [geoals.org](https://www.geoals.org/).
+For information about GeoALS, visit [geoals.org](https://www.geoals.org/).

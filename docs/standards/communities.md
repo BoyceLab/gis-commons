@@ -20,9 +20,9 @@ Open standards are maintained by working groups that welcome new contributors, i
 
 A request is most likely to be accepted when it includes a proposed label, a one-sentence definition with a citation, the parent term, the design pattern if the ontology uses them, and the use case that needs it. Search labels and synonyms first, because a concept may exist under a different preferred name.
 
-## Possible GeoALS contributions
+## Contributing an ALS use case
 
-To be discussed with GeoALS. The prototype [program plan](../board/roadmap.md) proposes that GeoALS submit its environmental mapping needs as use cases to the OHDSI GIS working group and file term requests where its work finds a gap, so that what is learned in ALS can be reused in other neurodegenerative diseases.
+ALS researchers and mapping teams can bring environmental linkage questions to the OHDSI GIS working group and submit term requests when existing ontologies do not represent a needed concept. Documenting these use cases helps other neurodegenerative disease studies reuse the methods.
 
 ## Sources
 

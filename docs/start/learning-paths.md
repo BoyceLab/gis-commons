@@ -12,7 +12,7 @@ The goal is to use existing maps with confidence and to bring one to a conversat
 - Use the [Glen Rouse ALS Legislative Viewer](../maps/tools.md#glen-rouse-als-legislative-viewer) to look up your legislators, then watch the [Legislative Viewer 2.0 walk-through](../maps/videos.md#v-nBxY4QUmHhY).
 - Review your clinic with the [ALS Clinic Advisor survey](../maps/tools.md#als-clinic-advisor), which is designed to work with eye-gaze devices.
 - Read [Reading a map critically](gis-basics.md#reading-a-map-critically).
-- Try [ArcGIS StoryMaps](https://storymaps.arcgis.com/) to tell a story with a map of your own.
+- Explore the [ALS StoryMaps examples](../maps/storymaps.md), then use [Esri's StoryMaps overview and training resources](../esri/tools.md#learn-arcgis-storymaps) to plan and build a story of your own.
 
 ## Clinic teams and care organizations
 
@@ -42,6 +42,10 @@ The goal is reproducible spatial analysis and standards-based storage.
 - The [OHDSI GIS working group documentation](https://ohdsi.github.io/GIS/), including its [schema extensions](https://ohdsi.github.io/GIS/schema-extensions.html) and [getting started page](https://ohdsi.github.io/GIS/get-started.html).
 - The [ArcGIS API for Python](https://developers.arcgis.com/python/) and the [R-ArcGIS Bridge](https://r.esri.com/) for working with hosted ArcGIS layers from code.
 - [Geospatial data standards](../standards/overview.md#geospatial-data-formats-and-identifiers) on this site.
+
+## Training for your team
+
+GeOALS experts can tailor a workshop, short course or mentoring session to your group's goals. Topics include StoryMaps, GIS fundamentals, web maps and dashboards, environmental linkage, data standards and location privacy. See [Training with GeOALS](../grants/training.md) for the training menu and an example project.
 
 ## Open source tools
 

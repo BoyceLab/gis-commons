@@ -1,10 +1,7 @@
 site_name: GIS Commons
-site_description: A prototype resource on geographic information systems (GIS), mapping, data standards and ontologies for ALS and other neurodegenerative diseases. Not officially affiliated with GeoALS or Esri.
+site_description: Geographic information systems, maps, environmental exposure research, and data standards for ALS and other neurodegenerative diseases.
 site_url: https://boycelab.github.io/gis-commons/
-repo_url: https://github.com/BoyceLab/gis-commons
-repo_name: BoyceLab/gis-commons
-edit_uri: edit/main/docs/
-copyright: Prototype only. Not officially affiliated with GeoALS or Esri. Content CC BY 4.0, code MIT.
+copyright: Content CC BY 4.0. Maps and stories retain their original credits.
 theme:
   name: material
   custom_dir: overrides
@@ -18,7 +15,6 @@ theme:
     - toc.follow
     - search.suggest
     - search.highlight
-    - content.action.edit
   palette:
     - scheme: default
       primary: custom
@@ -41,6 +37,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - toc: {permalink: true, toc_depth: 3}
+# Exclude legacy private pages even when an update is copied over older files.
+exclude_docs: |
+  board/
 plugins:
   - search
 nav:
@@ -52,6 +51,7 @@ nav:
   - Maps and videos:
       - GeoALS maps and apps: maps/tools.md
       - Video gallery: maps/videos.md
+  - StoryMaps: maps/storymaps.md
   - Esri toolbox:
       - Crediting maps and software: esri/credits.md
       - ArcGIS tools and training: esri/tools.md
@@ -66,14 +66,13 @@ nav:
   - Grant toolkit:
       - Working with GeoALS on a grant: grants/index.md
       - Grant starter ideas: grants/starter-ideas.md
+      - Training with GeOALS: grants/training.md
       - Proposal language: grants/language.md
       - Budget and letters: grants/budget.md
       - Request checklist: grants/checklist.md
   - Privacy:
       - Location privacy and governance: governance/privacy.md
-  - For the board:
-      - Program plan: board/roadmap.md
-      - Items to confirm: board/confirm.md
   - About:
+      - About GIS Commons: about/index.md
       - Acknowledgements and sources: about/acknowledgements.md
-      - Contribute: about/contribute.md
+      - Suggest a resource or correction: about/contribute.md

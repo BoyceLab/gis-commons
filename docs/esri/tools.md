@@ -2,7 +2,7 @@
 
 The Esri products behind GeoALS maps, what each is for, and where to learn it. Product pages are Esri's own.
 
-<p><a href="#products-geoals-uses">Products GeoALS uses</a> · <a href="#products-for-analysis-and-development">Analysis and development</a> · <a href="#free-training">Free training</a> · <a href="#community-and-support">Community and support</a></p>
+<p><a href="#products-geoals-uses">Products GeoALS uses</a> · <a href="#products-for-analysis-and-development">Analysis and development</a> · <a href="#training-resources">Training resources</a> · <a href="#learn-arcgis-storymaps">StoryMaps training</a> · <a href="#training-with-geoals">Training with GeOALS</a> · <a href="#community-and-support">Community and support</a></p>
 
 ## Products GeoALS uses
 
@@ -29,7 +29,7 @@ The Esri products behind GeoALS maps, what each is for, and where to learn it. P
 | [ArcGIS API for Python](https://developers.arcgis.com/python/) | Scripting and analysis against ArcGIS from Python |
 | [R-ArcGIS Bridge](https://r.esri.com/) | Reading and writing ArcGIS data from R |
 
-## Free training
+## Training resources
 
 | Resource | Level | Link |
 |---|---|---|
@@ -43,6 +43,28 @@ The Esri products behind GeoALS maps, what each is for, and where to learn it. P
 
 Some Esri Academy content requires an ArcGIS account or an organization with current maintenance. The MOOCs supply software for the length of the course.
 
+## Learn ArcGIS StoryMaps
+
+Start with Esri's overview, explore an ALS example, then build a short story using a guided lesson.
+
+| Resource | What you will learn |
+|---|---|
+| [ArcGIS StoryMaps overview](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview) | What StoryMaps does and how maps, text and media fit together |
+| [ArcGIS StoryMaps Fundamentals](https://www.esri.com/en-us/training/catalog/5e14de4036e7e15d09b53af9/arcgis-storymaps-fundamentals) | Esri's free learning plan for developing storytelling skills |
+| [Get started with ArcGIS StoryMaps](https://learn.arcgis.com/en/projects/get-started-with-arcgis-storymaps/) | A guided exercise using supplied maps, text and media to build a story |
+| [Getting started with accessible storytelling](https://storymaps.arcgis.com/stories/02670c9018f14cfbbaef7cba5c54d453) | Ways to make stories usable by a broader audience |
+| [StoryMaps resource center](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/resources) | Planning guidance, videos, tutorials and further training options |
+
+For ALS examples, explore [Patterns of Care in the U.S. and The Advocate](../maps/storymaps.md). These illustrate how a narrative can explain care access or advocacy alongside maps.
+
+Check the access requirements listed with each lesson. The guided *Get started* exercise currently requires a User, Publisher or Administrator role in an ArcGIS organization. A free learning resource does not necessarily include software access.
+
+## Training with GeOALS
+
+GeOALS experts can provide training tailored to a research team, clinic, community organization or advocacy group. Topics include GIS fundamentals, **ArcGIS StoryMaps**, maps and dashboards, environmental data linkage, data standards and location privacy.
+
+Training can be a workshop, a short course or a component of a larger research project. See [Training with GeOALS](../grants/training.md) for topics, formats and an example project scope, or include it in a [grant or partnership proposal](../grants/index.md#ways-to-include-geoals).
+
 ## Community and support
 
 - [Esri Community](https://community.esri.com/) for questions and product forums
@@ -50,6 +72,8 @@ Some Esri Academy content requires an ArcGIS account or an organization with cur
 - [Esri Nonprofit Program](https://www.esri.com/en-us/industries/nonprofit/nonprofit-program/eligibility), for nonprofit organizations that want ArcGIS for maps of their own
 
 ## Sources
+
+- [Esri ArcGIS StoryMaps overview](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview), [resources](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/resources) and [getting started tutorial](https://learn.arcgis.com/en/projects/get-started-with-arcgis-storymaps/), checked 13 November 2026
 
 - [GeoALS, Our work](https://www.geoals.org/our-work)
 - [Esri Community, "Top 3 Free Courses for ArcGIS Beginners"](https://community.esri.com/t5/esri-training-blog/top-3-free-courses-for-arcgis-beginners/m-p/1478470)

@@ -51,6 +51,8 @@ Researchers who would like to work with GeoALS can start with the [Grant toolkit
 
 ## Stories and coverage
 
+Read the featured stories in the [StoryMaps gallery](storymaps.md), with embedded readers and full-page links.
+
 - [Patterns of Care in the U.S.](https://storymaps.arcgis.com/stories/489d8da2358940818d3019b09e777155), a GeoALS story map on clinic access and travel time
 - [The Advocate](https://storymaps.arcgis.com/stories/936775e4a35b4cfaaa71877af2df9ff0), a story map about Pat Dolan's legislative mapping
 - [Esri ArcNews, "When Lived Experience Can Help Others"](https://www.esri.com/about/newsroom/arcnews/when-lived-experience-can-help-others)

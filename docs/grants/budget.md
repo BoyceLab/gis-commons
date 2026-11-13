@@ -1,6 +1,6 @@
 # Budget and letters
 
-Budget justification text and letter templates. Rates, signers and organizational documents are to be discussed with GeoALS. Follow the funder's own format and cost rules where they differ from the examples here, and use your institution's current figures for its own lines.
+Budget justification text and letter templates. Confirm rates, signers and organizational documents with GeoALS before using these templates. Follow the funder's own format and cost rules where they differ from the examples here, and use your institution's current figures for its own lines.
 
 <p><a href="#budget-lines">Budget lines</a> · <a href="#budget-justification-text">Justification text</a> · <a href="#letter-of-commitment">Letter of commitment</a> · <a href="#letter-of-support">Letter of support</a> · <a href="#consultant-letter">Consultant letter</a></p>
 
@@ -12,9 +12,10 @@ Budget justification text and letter templates. Rates, signers and organizationa
 | Consultant | Consultant costs | Hours multiplied by an hourly rate |
 | Fee-for-service | Other direct costs or purchased services | Fixed price per deliverable from a quote |
 | Community engagement | Participant support or other direct costs | Reviewer compensation and coordination time |
-| Software and hosting | Other direct costs, if needed | To be discussed with GeoALS; budget project-specific software, credits or storage only if the scope requires them |
+| Expert-led training | Consultant, training services or subaward costs, depending on the agreement | Preparation, delivery and follow-up hours at an agreed rate, plus any approved materials or access costs |
+| Software and hosting | Other direct costs, if needed | Confirm with GeoALS; budget project-specific software, credits or storage only if the scope requires them |
 
-The indirect cost rate is to be discussed with GeoALS. See [Proposed policies](index.md#proposed-policies).
+Use the indirect cost rate agreed for the application, subject to the funder's rules. See [Project arrangements](index.md#project-arrangements).
 
 ## Budget justification text
 
@@ -34,9 +35,13 @@ The indirect cost rate is to be discussed with GeoALS. See [Proposed policies](i
 
 > Community reviewer compensation (<span class="fill">[N]</span> reviewers, <span class="fill">[N]</span> hours each, at <span class="fill">[$ rate]</span> per hour). People living with ALS and caregivers will review <span class="fill">[materials]</span>.
 
+### Expert-led training
+
+> GeOALS training (<span class="fill">[$ total]</span>). GeOALS experts will deliver <span class="fill">[N sessions / course]</span> on <span class="fill">[ArcGIS StoryMaps / GIS fundamentals / other topic]</span> for <span class="fill">[audience and group size]</span>. The budget covers <span class="fill">[N]</span> preparation hours, <span class="fill">[N]</span> instructional hours and <span class="fill">[N]</span> follow-up hours at <span class="fill">[$ agreed rate]</span> per hour, plus <span class="fill">[approved materials, accessibility or software costs, if needed]</span>. Deliverables include <span class="fill">[teaching materials, exercises and feedback on a draft product]</span>.
+
 ## Letter of commitment
 
-For a subaward or other funded role. Letterhead and signer are to be discussed with GeoALS.
+For a subaward or other funded role. Obtain the letter from GeoALS on approved letterhead with an authorized signer.
 
 > <span class="fill">[Date]</span>
 >

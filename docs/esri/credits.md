@@ -2,9 +2,6 @@
 
 Maps and figures made with ArcGIS credit the software, the basemap and each data source, as with any analytic tool. This page describes common practice for authors.
 
-!!! note "To be discussed with GeoALS"
-    How GeoALS acknowledges Esri in its own products is to be discussed with GeoALS. The wording below is generic and suits any author using ArcGIS.
-
 ## Software
 
 Name the product, and the version where there is one, in the methods section. For example:

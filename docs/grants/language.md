@@ -1,6 +1,6 @@
 # Proposal language
 
-Paragraphs to adapt. Replace <span class="fill">[bracketed text]</span> and cut what does not apply. This is prototype language: the wording GeoALS prefers, and how drafts would be reviewed, are to be discussed with GeoALS. Descriptions of GeoALS tools reflect the GeoALS website as of 12 November 2026.
+Paragraphs to adapt. Replace <span class="fill">[bracketed text]</span> and cut what does not apply. Confirm all organizational descriptions, roles and commitments with GeoALS before submission. Descriptions of GeoALS tools reflect the GeoALS website as of 12 November 2026.
 
 <p><a href="#about-geoals">About GeoALS</a> · <a href="#role-in-the-project">Role in the project</a> · <a href="#approach-paragraphs">Approach</a> · <a href="#expert-pool">Expert pool</a> · <a href="#facilities-and-resources">Facilities and resources</a> · <a href="#data-management-and-sharing">Data management</a> · <a href="#community-engagement">Community engagement</a> · <a href="#human-subjects-and-privacy">Privacy</a></p>
 
@@ -14,7 +14,7 @@ Paragraphs to adapt. Replace <span class="fill">[bracketed text]</span> and cut 
 
 > GeoALS maintains the ALS Geospatial Hub, which brings together data from federal agencies, research institutions and nonprofit organizations by geography; the ALS Clinic Advisor, a locator and community review system for ALS and motor neuron disease clinics; and the Glen Rouse ALS Legislative Viewer, which reports each member of Congress's support for ALS policy. Its maps are built by the Mappers, a volunteer group of GIS professionals, ALS researchers and advocates.
 
-A fuller organizational description is to be discussed with GeoALS. Background on the organization is on the [GeoALS website](https://www.geoals.org/).
+Use an organizational description reviewed by GeoALS for the application. Background on the organization is on the [GeoALS website](https://www.geoals.org/).
 
 **Research experience**
 
@@ -33,6 +33,12 @@ A fuller organizational description is to be discussed with GeoALS. Background o
 **Fee-for-service**
 
 > GeoALS will produce <span class="fill">[a map series / an interactive dashboard / a geocoding and linkage run]</span> under a services agreement, according to the attached quote and schedule.
+
+## Expert-led training
+
+> GeOALS experts will provide <span class="fill">[N]</span> training sessions on <span class="fill">[ArcGIS StoryMaps / GIS fundamentals / environmental data linkage / other topic]</span> for <span class="fill">[audience]</span>. Instruction will use <span class="fill">[public or synthetic data]</span> and combine demonstrations, guided practice and feedback. Participants will develop <span class="fill">[a draft StoryMap / map / linkage plan]</span>. The team will assess learning through <span class="fill">[a practical exercise, completed product and participant feedback]</span> and provide <span class="fill">[materials or follow-up support]</span> for continued use.
+
+For a StoryMaps workshop, specify the intended audience for the story, its sources, accessibility review and publication review. See [Training with GeOALS](training.md).
 
 ## Approach paragraphs
 
@@ -58,7 +64,9 @@ A fuller organizational description is to be discussed with GeoALS. Background o
 
 ## Expert pool
 
-> GeoALS maintains a pool of consultants and volunteer experts in GIS analysis, application development, epidemiology, biomedical informatics, environmental data, health services research and patient advocacy, including people with lived experience of ALS. For this project GeoALS will assign expertise in <span class="fill">[areas]</span>. This arrangement gives the project access to specialized skills for the hours needed without the cost of full-time positions.
+Use only when a consulting arrangement has been confirmed.
+
+> The project will engage <span class="fill">[named contributors or confirmed consulting team]</span> with expertise in <span class="fill">[areas]</span>. Their responsibilities will include <span class="fill">[tasks]</span>, with <span class="fill">[hours or effort]</span> budgeted for this work.
 
 ## Facilities and resources
 

@@ -1,9 +1,6 @@
 # GIS Commons
 
-GIS Commons is a prototype resource on geographic information systems (GIS) and mapping for ALS and other neurodegenerative diseases, drafted for discussion with GeoALS. It explains mapping from the ground up, gathers GeoALS's public maps and videos in one place, lists the Esri tools those maps are built with, describes the data standards and ontologies for recording where people have lived and what surrounded them, and drafts a toolkit for researchers who want to include GeoALS in a grant.
-
-!!! warning "Prototype only"
-    This site is not officially affiliated with GeoALS or Esri, and nothing on it is a statement by either organization. Items marked "to be discussed with GeoALS" are open questions, and <span class="fill">shaded brackets</span> mark blanks in templates. The open items are listed on [Items to confirm](board/confirm.md).
+GIS Commons connects maps, stories and practical research guidance for ALS and other neurodegenerative diseases. Explore public GeOALS tools, learn how geographic information systems (GIS) work, and examine environmental exposures with attention to evidence, study design and data standards.
 
 <div class="cards" markdown>
 <div class="card" markdown>
@@ -16,7 +13,7 @@ The ALS Clinic Advisor, the Glen Rouse ALS Legislative Viewer, the ALS Geospatia
 </div>
 <div class="card" markdown>
 ### [Esri toolbox](esri/tools.md)
-The ArcGIS products the GeoALS maps are built with, free Esri training, and how to credit maps and software in a publication.
+ArcGIS tools, Esri learning resources including StoryMaps, and [training with GeOALS experts](grants/training.md).
 </div>
 <div class="card" markdown>
 ### [Standards and ontologies](standards/overview.md)
@@ -28,11 +25,11 @@ Six ALS exposure examples, ways to examine them, environmental data sources and 
 </div>
 <div class="card" markdown>
 ### [Grant toolkit](grants/index.md)
-Draft arrangements for including GeoALS in a proposal to a foundation or government agency, with starter ideas, proposal language, budget justification text and letter templates.
+Project ideas, expert-led training, adaptable proposal language, budget examples and letter templates for geographic research partnerships.
 </div>
 <div class="card" markdown>
-### [For the board](board/roadmap.md)
-What this prototype could accomplish, the programs it would support, and the decisions it needs.
+### [StoryMaps](maps/storymaps.md)
+Read published stories about access to ALS care and advocacy, with interactive maps and context from their authors.
 </div>
 </div>
 
@@ -43,6 +40,8 @@ What this prototype could accomplish, the programs it would support, and the dec
 - **Researchers** in ALS and other neurodegenerative diseases who want to add geography to a study and need methods and proposal language.
 - **Data scientists and informaticians** who need the standards for location and environmental context.
 - **Funders** who want to understand what geographic analysis adds to a portfolio.
+
+Developed by Danielle Boyce, a member of the board at GeOALS. [About GIS Commons](about/index.md).
 
 ## Learn about GeoALS
 

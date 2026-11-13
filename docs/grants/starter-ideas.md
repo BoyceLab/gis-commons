@@ -1,6 +1,6 @@
 # Grant starter ideas
 
-Project ideas with a geographic component, grouped by the kind of funder they suit. Each lists the role GeoALS would play. They are starting points to adapt to a funder's priorities. Which ideas GeoALS would take on is to be discussed with GeoALS.
+Project ideas with a geographic component, grouped by the kind of funder they suit. Each lists the role GeoALS would play. They are starting points to adapt to a funder's priorities. Confirm interest, capacity and scope with GeoALS before including a role in a proposal.
 
 <p><a href="#access-to-care">Access to care</a> · <a href="#research-recruitment-and-registries">Recruitment and registries</a> · <a href="#environmental-context">Environmental context</a> · <a href="#data-standards-and-infrastructure">Standards and infrastructure</a> · <a href="#advocacy-and-policy">Advocacy and policy</a> · <a href="#training-and-capacity">Training</a> · <a href="#other-neurodegenerative-diseases">Other diseases</a></p>
 
@@ -48,9 +48,13 @@ Project ideas with a geographic component, grouped by the kind of funder they su
 
 | Idea | GeoALS role | Suits |
 |---|---|---|
+| Expert-led training tailored to a research team, clinic or community organization | Needs assessment, curriculum, instruction, exercises and follow-up | Capacity-building funders; training components of research grants |
+| A StoryMaps workshop that helps a partner explain care access, community resources or study findings | Story planning, hands-on instruction, accessibility and source review, feedback on a draft | Community engagement, education and dissemination funders |
 | A short course on GIS for patient advocacy organizations, built on this site | Curriculum, instruction | Capacity-building funders |
 | Fellowships or internships placing GIS students with the Mappers | Mentorship, project supply | Education and workforce programs |
 | Accessible mapping: methods and tools for map makers who use eye-gaze and other assistive technology | Lived expertise, tool testing | Disability and assistive technology funders |
+
+See [Training with GeOALS](training.md) for a topic menu, formats and an example StoryMaps workshop scope.
 
 ## Other neurodegenerative diseases
 

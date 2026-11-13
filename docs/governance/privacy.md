@@ -1,19 +1,19 @@
 # Location privacy and governance
 
-A home address identifies a person, and a dot on a map can identify a person as surely as a name. ALS is uncommon enough that a few cases in a small area may be recognizable. These are the practices this prototype proposes for GeoALS and its partners, to be discussed with GeoALS.
+A home address identifies a person, and a dot on a map can identify a person as surely as a name. ALS is uncommon enough that a few cases in a small area may be recognizable. The practices below are considerations for planning and reviewing geographic research.
 
 ## What counts as identifying
 
 The Privacy Rule of the Health Insurance Portability and Accountability Act (HIPAA) lists geographic subdivisions smaller than a state among its identifiers, including street address, city, county, precinct and ZIP Code. Under the Safe Harbor method, only the first three digits of a ZIP Code may be kept, and only where the area they cover holds more than 20,000 people. Coordinates derived from an address are as identifying as the address.
 
-Organizations that are not covered entities under HIPAA often choose to work to the same standard, and this prototype recommends that choice.
+Projects should establish their privacy requirements with their data holders and institutional reviewers, including obligations under data use agreements.
 
 ## Practices
 
 - **Decide what the question needs.** Many questions can be answered with a tract or county identifier, without retaining coordinates.
 - **Geocode inside the data holder's environment.** Addresses should not be sent to an outside geocoding service unless an agreement covers it. Tools that run locally, such as DeGAUSS, exist for this purpose.
 - **Separate identifiers from analysis.** Keep addresses and coordinates in a restricted table, and give analysts derived variables: distance to a facility, a tract identifier, a linked environmental value.
-- **Suppress small cells.** Hold back any count below 5 in a published table or map, and check that a suppressed value cannot be recovered by subtraction. The threshold is to be discussed with GeoALS.
+- **Suppress small cells.** Agree on a suppression threshold with the data holder and privacy reviewers before publishing counts. Check that a suppressed value cannot be recovered by subtraction or comparison with another release.
 - **Aggregate or mask points.** Public maps of people show areas, not points. Where points are necessary for a restricted audience, use a documented masking method.
 - **Build on invented records.** Maps, dashboards and analysis code are developed and tested with placeholder people before any real record is loaded.
 - **Review before release.** A person reviews every map, table and figure in full before it leaves the secure environment.

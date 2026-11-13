@@ -42,8 +42,11 @@ body{font-family:var(--md-text-font)}
   .md-typeset details>*{display:block!important}
   .video .frame{display:none}
 }
-/* prototype banner on every page */
-.md-banner{background:#b5451b;color:#fff}
-.md-banner__inner{margin:.35rem auto;font-size:.74rem;text-align:center}
-.md-banner strong{color:#fff}
-@media print{.md-banner{display:block!important;background:none;color:#000;border-bottom:1px solid #000}.md-banner strong{color:#000}}
+/* Embedded stories have a separate full-page link above the reader. */
+.md-typeset .story-panel{border:1px solid var(--md-default-fg-color--lightest);box-shadow:none;border-radius:6px;overflow:hidden}
+.md-typeset .story-panel summary{font-size:.8rem;font-weight:600;cursor:pointer;padding:.8rem}
+.md-typeset .story-panel>summary::before{display:none}
+.md-typeset .story-panel iframe{display:block;width:100%;height:70vh;min-height:480px;border:0;background:var(--md-default-bg-color)}
+.story-credit{font-size:.72rem;color:var(--md-default-fg-color--light)}
+@media(max-width:600px){.md-typeset .story-panel iframe{height:65vh;min-height:380px}}
+@media print{.story-panel iframe{display:none!important}}

@@ -2,8 +2,7 @@
 
 This toolkit is for investigators and organizations preparing a proposal to a private foundation or a government agency who want geographic analysis, maps or community reach in the project. It describes ways GeoALS could take part, offers starter ideas, and supplies language to adapt.
 
-!!! warning "Prototype"
-    This toolkit is a prototype for discussion with GeoALS and is not a GeoALS offer. Items marked "to be discussed with GeoALS" are not settled, and <span class="fill">shaded brackets</span> mark blanks for the applicant to fill.
+These are examples for planning a partnership. Confirm scope, availability, rates and organizational approval with GeoALS before naming it as a partner or submitting a commitment. <span class="fill">Shaded brackets</span> mark template fields to complete.
 
 ## How the toolkit is organized
 
@@ -15,20 +14,25 @@ This toolkit is for investigators and organizations preparing a proposal to a pr
 
 ## Ways to include GeoALS
 
-| Arrangement | When it fits | What GeoALS provides | What the proposal needs |
+| Arrangement | When it fits | What to agree with the partner | What the proposal needs |
 |---|---|---|---|
 | Subaward or subcontract | GeoALS leads an aim or a substantial part of one | A scope of work, key personnel, deliverables and a budget | Subrecipient documents, budget and justification, letter of commitment |
-| Consultant from the GeoALS expert pool | The project needs defined expertise for a limited number of hours | A consultant matched to the need, engaged through GeoALS | Consultant line in the budget, a letter stating role and rate |
+| Consulting arrangement | The project needs defined expertise for a limited number of hours | Named expertise, tasks, hours and engagement terms | Consultant line in the budget, a letter stating role and rate |
 | Fee-for-service mapping | The project needs a defined product: a map series, a dashboard, a geocoding and linkage run | A quote with deliverables and schedule | A services line in the budget and the quote |
 | Community engagement partner | The project needs input from, or dissemination to, people living with ALS and their caregivers | Outreach through GeoALS channels and the Mappers, and review of materials | Engagement budget line, letter of support |
 | Letter of support only | GeoALS endorses the project and will share public tools, without funded effort | A letter describing the relevance of the project and the public resources available | A summary of the project |
+| Expert-led training | A team needs practical mapping, StoryMaps or research skills | A tailored curriculum, instructor time, exercises and follow-up | Training scope, audience, deliverables, schedule and budget |
 | Advisory role | The project wants geographic expertise on a steering or advisory committee | A named representative | Honorarium line if the funder allows |
 
-Whether GeoALS could serve as the applicant organization, with an academic or clinical partner as the subrecipient, is to be discussed with GeoALS.
+Confirm applicant and subrecipient eligibility with the funder and prospective partners.
 
-## The expert pool
+## Build skills with GeOALS experts
 
-GeoALS draws on a pool of consultants and volunteer experts. Proposals describe the pool by expertise, and individuals are named only when they appear in the submitted budget. Areas of expertise include:
+Include [expert-led training](training.md) as a project in its own right or as a work package in a grant. Options include StoryMaps workshops, GIS orientation, dashboard training, environmental linkage methods, data standards and location privacy. Formats can range from a single session to a short course or project mentoring.
+
+## Expertise to consider
+
+Match the project to the expertise it needs, then confirm the availability and role of each contributor. Relevant areas include:
 
 - GIS analysis and cartography
 - ArcGIS application development: hubs, dashboards, surveys and story maps
@@ -39,15 +43,10 @@ GeoALS draws on a pool of consultants and volunteer experts. Proposals describe 
 - Lived experience of ALS, caregiving and advocacy
 - Legislative and policy mapping
 
-## Proposed policies
+## Project arrangements
 
-These are proposals that would apply to every award. All are to be discussed with GeoALS.
-
-- **Indirect costs.** A single indirect cost rate, stated once as policy and applied to every award. The rate is to be discussed with GeoALS. Where a funder caps indirect costs below it, the funder's published policy applies.
-- **Privacy.** All work follows the practices on [Location privacy and governance](../governance/privacy.md).
-- **Credit.** Products credit the software and data sources used, as described on [Crediting maps and software](../esri/credits.md).
-- **Openness.** Unless an agreement says otherwise, non-identifying maps and methods are shared publicly.
+Agree on the scope, staffing, budget, indirect costs, data access, review process and publication plan before submission. Use the funder's requirements and the participating organizations' approved terms. Consult the [location privacy guidance](../governance/privacy.md) and [map attribution guidance](../esri/credits.md) when drafting the methods and dissemination plan.
 
 ## Learn about GeoALS
 
-How GeoALS would receive partnership requests, and how much lead time it would need, are to be discussed with GeoALS. To learn about GeoALS, visit [geoals.org](https://www.geoals.org/).
+For information about GeoALS and its current work, visit [geoals.org](https://www.geoals.org/).
