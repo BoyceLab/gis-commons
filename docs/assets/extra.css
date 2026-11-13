@@ -1,6 +1,11 @@
 :root{--md-primary-fg-color:#0b3c5d;--md-primary-fg-color--light:#1d6a96;--md-primary-fg-color--dark:#072a41;--md-accent-fg-color:#b5451b;--md-text-font:"Source Sans 3","Segoe UI",system-ui,-apple-system,Helvetica,Arial,sans-serif;--md-code-font:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 [data-md-color-scheme=slate]{--md-primary-fg-color:#0b3c5d;--md-accent-fg-color:#f0a37f}
 body{font-family:var(--md-text-font)}
+/* A persistent, slim review notice on every public page. */
+.md-banner{background:#fff1d2;color:#493b21}
+.md-banner__inner{max-width:1480px;margin:0 auto;padding:.32rem .8rem;font-size:.7rem;line-height:1.45;text-align:center}
+.prototype-notice strong{font-weight:700}
+[data-md-color-scheme=slate] .md-banner{background:#403a2a;color:#fff0cf}
 /* wider column, tighter vertical rhythm */
 .md-grid{max-width:1480px}
 .md-typeset{font-size:.8rem;line-height:1.5}
@@ -50,3 +55,4 @@ body{font-family:var(--md-text-font)}
 .story-credit{font-size:.72rem;color:var(--md-default-fg-color--light)}
 @media(max-width:600px){.md-typeset .story-panel iframe{height:65vh;min-height:380px}}
 @media print{.story-panel iframe{display:none!important}}
+

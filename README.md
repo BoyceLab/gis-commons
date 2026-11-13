@@ -8,6 +8,7 @@ Site: https://boycelab.github.io/gis-commons/
 
 | Folder | Contents |
 |---|---|
+| `docs/work/` | Services, volunteering and awareness toolkit |
 | `docs/start/` | GIS orientation, learning paths by role, glossary |
 | `docs/maps/` | GeoALS public apps, embedded StoryMaps and the video gallery |
 | `docs/esri/` | ArcGIS product directory, free training, crediting maps and software |

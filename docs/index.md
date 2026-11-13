@@ -4,6 +4,10 @@ GIS Commons connects maps, stories and practical research guidance for ALS and o
 
 <div class="cards" markdown>
 <div class="card" markdown>
+### [Work and volunteer with us](work/index.md)
+Find a role, explore research and communication services, or use the awareness toolkit to introduce GeOALS to a potential partner.
+</div>
+<div class="card" markdown>
 ### [Start here](start/gis-basics.md)
 What GIS is, the ideas behind every map, and learning paths for advocates, clinic teams, researchers and data scientists.
 </div>

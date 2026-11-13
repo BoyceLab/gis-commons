@@ -44,6 +44,8 @@ Project ideas with a geographic component, grouped by the kind of funder they su
 | Extend the Legislative Viewer to state legislatures | App development, data maintenance | Advocacy funders |
 | Produce district fact sheets from Hub data for advocacy days | Automated map and fact sheet production | Advocacy organizations |
 
+Organizations can also commission or co-create an accessible StoryMap with GeOALS. These interactive narratives can combine text, photographs, media and optional maps. See [StoryMaps consultation and creation](../work/services.md).
+
 ## Training and capacity
 
 | Idea | GeoALS role | Suits |

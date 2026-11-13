@@ -12,6 +12,11 @@ Work with GeOALS experts to build the mapping and communication skills your team
 | Environmental data linkage | Connecting place and time to environmental indicators; interpreting exposure proxies and uncertainty | A linkage plan and a variable dictionary |
 | Data standards and ontologies | Describing location history, exposures and provenance consistently | A worked mapping between source fields and relevant standards |
 | Location privacy and responsible sharing | Recognizing identifying geography, choosing appropriate aggregation and reviewing public products | A disclosure review exercise and a documented sharing plan |
+| Real world evidence and EHR research | Cohort definition, record completeness, source provenance and interpreting observational findings | A study data inventory and feasibility plan |
+| AI and biocuration | Human reviewed extraction, terminology mapping and evaluation with public or synthetic material | A small annotated example and evaluation checklist |
+| Web design and research communication | Accessible web pages, visual explanations and source attribution | A public research or advocacy page outline |
+
+See [Research and communication services](../work/services.md) for consultation and project support across these topics.
 
 ## Formats
 
