@@ -26,7 +26,7 @@ These are examples for planning a partnership. Confirm scope, availability, rate
 
 Confirm applicant and subrecipient eligibility with the funder and prospective partners.
 
-## Build skills with GeOALS experts
+## Build skills with GeoALS experts
 
 Include [expert-led training](training.md) as a project in its own right or as a work package in a grant. Options include StoryMaps workshops, GIS orientation, dashboard training, environmental linkage methods, data standards and location privacy. Formats can range from a single session to a short course or project mentoring.
 

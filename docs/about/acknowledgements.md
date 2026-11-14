@@ -1,6 +1,6 @@
 # Acknowledgements and sources
 
-GIS Commons was developed by Danielle Boyce, a member of the board at GeOALS. The sources below inform the site; linked maps, videos and stories retain their original authorship and credits.
+GIS Commons was developed by Danielle Boyce, a member of the board at GeoALS. The sources below inform the site; linked maps, videos and stories retain their original authorship and credits.
 
 ## GeoALS
 

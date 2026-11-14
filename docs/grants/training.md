@@ -1,6 +1,6 @@
-# Training with GeOALS
+# Training with GeoALS
 
-Work with GeOALS experts to build the mapping and communication skills your team needs. Training can support a research project, help a clinic use geographic information, or help a community organization tell a clear story with maps.
+Work with GeoALS experts to build the mapping and communication skills your team needs. Training can support a research project, help a clinic use geographic information, or help a community organization tell a clear story with maps.
 
 ## Training topics
 
@@ -12,11 +12,6 @@ Work with GeOALS experts to build the mapping and communication skills your team
 | Environmental data linkage | Connecting place and time to environmental indicators; interpreting exposure proxies and uncertainty | A linkage plan and a variable dictionary |
 | Data standards and ontologies | Describing location history, exposures and provenance consistently | A worked mapping between source fields and relevant standards |
 | Location privacy and responsible sharing | Recognizing identifying geography, choosing appropriate aggregation and reviewing public products | A disclosure review exercise and a documented sharing plan |
-| Real world evidence and EHR research | Cohort definition, record completeness, source provenance and interpreting observational findings | A study data inventory and feasibility plan |
-| AI and biocuration | Human reviewed extraction, terminology mapping and evaluation with public or synthetic material | A small annotated example and evaluation checklist |
-| Web design and research communication | Accessible web pages, visual explanations and source attribution | A public research or advocacy page outline |
-
-See [Research and communication services](../work/services.md) for consultation and project support across these topics.
 
 ## Formats
 
@@ -28,7 +23,7 @@ See [Research and communication services](../work/services.md) for consultation 
 
 ## Example project idea
 
-**Build a StoryMap for an ALS research or community project.** A partner team works with a GeOALS expert to turn a defined question into a draft story for its intended audience.
+**Build a StoryMap for an ALS research or community project.** A partner team works with a GeoALS expert to turn a defined question into a draft story for its intended audience.
 
 An illustrative scope is two 90-minute workshops plus a review session. The first workshop develops the audience, narrative outline and map plan. Participants prepare a draft between sessions. The second covers maps and media, clear explanations of results, accessibility and source attribution. The review session provides feedback on the draft and its sharing settings.
 
@@ -44,4 +39,4 @@ To start a discussion, send the topic, intended audience, group size, current sk
 
 ## Esri resources for independent learning
 
-Begin with [Esri's ArcGIS StoryMaps overview](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview), then use the [StoryMaps training resources](../esri/tools.md#learn-arcgis-storymaps). These Esri resources can support preparation for a GeOALS workshop or further practice afterward.
+Begin with [Esri's ArcGIS StoryMaps overview](https://www.esri.com/en-us/arcgis/products/arcgis-storymaps/overview), then use the [StoryMaps training resources](../esri/tools.md#learn-arcgis-storymaps). These Esri resources can support preparation for a GeoALS workshop or further practice afterward.

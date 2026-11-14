@@ -1,12 +1,8 @@
 # GIS Commons
 
-GIS Commons connects maps, stories and practical research guidance for ALS and other neurodegenerative diseases. Explore public GeOALS tools, learn how geographic information systems (GIS) work, and examine environmental exposures with attention to evidence, study design and data standards.
+GIS Commons connects maps, stories and practical research guidance for ALS and other neurodegenerative diseases. Explore public GeoALS tools, learn how geographic information systems (GIS) work, and examine environmental exposures with attention to evidence, study design and data standards.
 
 <div class="cards" markdown>
-<div class="card" markdown>
-### [Work and volunteer with us](work/index.md)
-Find a role, explore research and communication services, or use the awareness toolkit to introduce GeOALS to a potential partner.
-</div>
 <div class="card" markdown>
 ### [Start here](start/gis-basics.md)
 What GIS is, the ideas behind every map, and learning paths for advocates, clinic teams, researchers and data scientists.
@@ -17,7 +13,7 @@ The ALS Clinic Advisor, the Glen Rouse ALS Legislative Viewer, the ALS Geospatia
 </div>
 <div class="card" markdown>
 ### [Esri toolbox](esri/tools.md)
-ArcGIS tools, Esri learning resources including StoryMaps, and [training with GeOALS experts](grants/training.md).
+ArcGIS tools, Esri learning resources including StoryMaps, and [training with GeoALS experts](grants/training.md).
 </div>
 <div class="card" markdown>
 ### [Standards and ontologies](standards/overview.md)
@@ -45,7 +41,7 @@ Read published stories about access to ALS care and advocacy, with interactive m
 - **Data scientists and informaticians** who need the standards for location and environmental context.
 - **Funders** who want to understand what geographic analysis adds to a portfolio.
 
-Developed by Danielle Boyce, a member of the board at GeOALS. [About GIS Commons](about/index.md).
+Developed by Danielle Boyce, a member of the board at GeoALS. [About GIS Commons](about/index.md).
 
 ## Learn about GeoALS
 

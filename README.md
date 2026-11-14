@@ -1,6 +1,8 @@
 # GIS Commons
 
-A resource on geographic information systems, mapping, environmental exposure research, data standards and ontologies for ALS and other neurodegenerative diseases. Developed by Danielle Boyce, a member of the board at GeOALS.
+> **Prototype only.** This site is not finalized and does not represent the views of Esri or GeoALS.
+
+A resource on geographic information systems, mapping, environmental exposure research, data standards and ontologies for ALS and other neurodegenerative diseases. Developed by Danielle Boyce, a member of the board at GeoALS.
 
 Site: https://boycelab.github.io/gis-commons/
 
@@ -8,7 +10,6 @@ Site: https://boycelab.github.io/gis-commons/
 
 | Folder | Contents |
 |---|---|
-| `docs/work/` | Services, volunteering and awareness toolkit |
 | `docs/start/` | GIS orientation, learning paths by role, glossary |
 | `docs/maps/` | GeoALS public apps, embedded StoryMaps and the video gallery |
 | `docs/esri/` | ArcGIS product directory, free training, crediting maps and software |

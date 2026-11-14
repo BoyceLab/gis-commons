@@ -34,7 +34,7 @@ A story about Pat Dolan and the use of mapping in ALS advocacy. It offers an exa
 
 ## Learn to create a StoryMap
 
-Use [Esri's overview and StoryMaps learning resources](../esri/tools.md#learn-arcgis-storymaps) to get started. For a workshop tailored to your organization or research project, explore [Training with GeOALS](../grants/training.md), including story planning, guided practice and feedback from an expert.
+Use [Esri's overview and StoryMaps learning resources](../esri/tools.md#learn-arcgis-storymaps) to get started. For a workshop tailored to your organization or research project, explore [Training with GeoALS](../grants/training.md), including story planning, guided practice and feedback from an expert.
 
 ## More stories and ways to use them
 

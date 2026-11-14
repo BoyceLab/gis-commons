@@ -40,45 +40,39 @@ markdown_extensions:
 # Exclude legacy private pages even when an update is copied over older files.
 exclude_docs: |
   board/
-  study/
-  downloads/
-  assets/GeOALS_Study_Overview_2026-11-13.png
 plugins:
   - search
 nav:
   - Home: index.md
-  - Learn GIS:
+  - Start here:
       - GIS in plain language: start/gis-basics.md
       - Learning paths by role: start/learning-paths.md
       - Glossary: start/glossary.md
-      - ArcGIS tools and training: esri/tools.md
-      - Crediting maps and software: esri/credits.md
-  - Maps and stories:
-      - GeOALS maps and apps: maps/tools.md
-      - StoryMaps: maps/storymaps.md
+  - Maps and videos:
+      - GeoALS maps and apps: maps/tools.md
       - Video gallery: maps/videos.md
+  - StoryMaps: maps/storymaps.md
+  - Esri toolbox:
+      - Crediting maps and software: esri/credits.md
+      - ArcGIS tools and training: esri/tools.md
   - Environmental mapping:
       - Overview and study design: environment/overview.md
       - Exposure examples: environment/examples.md
       - Data sources and linkage limits: environment/data-sources.md
       - References and provenance: environment/references.md
-  - Standards:
+  - Standards and ontologies:
       - The standards stack: standards/overview.md
       - Communities to join: standards/communities.md
-  - Work and volunteer:
-      - Overview: work/index.md
-      - Research and communication services: work/services.md
-      - Volunteer roles: work/volunteer.md
-      - Awareness toolkit: work/awareness.md
-      - Training with GeOALS: grants/training.md
-      - Project and grant toolkit:
-          - Working together on a grant: grants/index.md
-          - Project ideas: grants/starter-ideas.md
-          - Proposal language: grants/language.md
-          - Budget and letters: grants/budget.md
-          - Request checklist: grants/checklist.md
+  - Grant toolkit:
+      - Working with GeoALS on a grant: grants/index.md
+      - Grant starter ideas: grants/starter-ideas.md
+      - Training with GeoALS: grants/training.md
+      - Proposal language: grants/language.md
+      - Budget and letters: grants/budget.md
+      - Request checklist: grants/checklist.md
+  - Privacy:
+      - Location privacy and governance: governance/privacy.md
   - About:
       - About GIS Commons: about/index.md
-      - Location privacy: governance/privacy.md
       - Acknowledgements and sources: about/acknowledgements.md
       - Suggest a resource or correction: about/contribute.md

@@ -2,7 +2,7 @@
 
 The Esri products behind GeoALS maps, what each is for, and where to learn it. Product pages are Esri's own.
 
-<p><a href="#products-geoals-uses">Products GeoALS uses</a> · <a href="#products-for-analysis-and-development">Analysis and development</a> · <a href="#training-resources">Training resources</a> · <a href="#learn-arcgis-storymaps">StoryMaps training</a> · <a href="#training-with-geoals">Training with GeOALS</a> · <a href="#community-and-support">Community and support</a></p>
+<p><a href="#products-geoals-uses">Products GeoALS uses</a> · <a href="#products-for-analysis-and-development">Analysis and development</a> · <a href="#training-resources">Training resources</a> · <a href="#learn-arcgis-storymaps">StoryMaps training</a> · <a href="#training-with-geoals">Training with GeoALS</a> · <a href="#community-and-support">Community and support</a></p>
 
 ## Products GeoALS uses
 
@@ -59,11 +59,11 @@ For ALS examples, explore [Patterns of Care in the U.S. and The Advocate](../map
 
 Check the access requirements listed with each lesson. The guided *Get started* exercise currently requires a User, Publisher or Administrator role in an ArcGIS organization. A free learning resource does not necessarily include software access.
 
-## Training with GeOALS
+## Training with GeoALS
 
-GeOALS experts can provide training tailored to a research team, clinic, community organization or advocacy group. Topics include GIS fundamentals, **ArcGIS StoryMaps**, maps and dashboards, environmental data linkage, data standards and location privacy.
+GeoALS experts can provide training tailored to a research team, clinic, community organization or advocacy group. Topics include GIS fundamentals, **ArcGIS StoryMaps**, maps and dashboards, environmental data linkage, data standards and location privacy.
 
-Training can be a workshop, a short course or a component of a larger research project. See [Training with GeOALS](../grants/training.md) for topics, formats and an example project scope, or include it in a [grant or partnership proposal](../grants/index.md#ways-to-include-geoals).
+Training can be a workshop, a short course or a component of a larger research project. See [Training with GeoALS](../grants/training.md) for topics, formats and an example project scope, or include it in a [grant or partnership proposal](../grants/index.md#ways-to-include-geoals).
 
 ## Community and support
 

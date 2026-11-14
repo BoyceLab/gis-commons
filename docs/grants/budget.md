@@ -37,7 +37,7 @@ Use the indirect cost rate agreed for the application, subject to the funder's r
 
 ### Expert-led training
 
-> GeOALS training (<span class="fill">[$ total]</span>). GeOALS experts will deliver <span class="fill">[N sessions / course]</span> on <span class="fill">[ArcGIS StoryMaps / GIS fundamentals / other topic]</span> for <span class="fill">[audience and group size]</span>. The budget covers <span class="fill">[N]</span> preparation hours, <span class="fill">[N]</span> instructional hours and <span class="fill">[N]</span> follow-up hours at <span class="fill">[$ agreed rate]</span> per hour, plus <span class="fill">[approved materials, accessibility or software costs, if needed]</span>. Deliverables include <span class="fill">[teaching materials, exercises and feedback on a draft product]</span>.
+> GeoALS training (<span class="fill">[$ total]</span>). GeoALS experts will deliver <span class="fill">[N sessions / course]</span> on <span class="fill">[ArcGIS StoryMaps / GIS fundamentals / other topic]</span> for <span class="fill">[audience and group size]</span>. The budget covers <span class="fill">[N]</span> preparation hours, <span class="fill">[N]</span> instructional hours and <span class="fill">[N]</span> follow-up hours at <span class="fill">[$ agreed rate]</span> per hour, plus <span class="fill">[approved materials, accessibility or software costs, if needed]</span>. Deliverables include <span class="fill">[teaching materials, exercises and feedback on a draft product]</span>.
 
 ## Letter of commitment
 

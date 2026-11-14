@@ -36,9 +36,9 @@ Use an organizational description reviewed by GeoALS for the application. Backgr
 
 ## Expert-led training
 
-> GeOALS experts will provide <span class="fill">[N]</span> training sessions on <span class="fill">[ArcGIS StoryMaps / GIS fundamentals / environmental data linkage / other topic]</span> for <span class="fill">[audience]</span>. Instruction will use <span class="fill">[public or synthetic data]</span> and combine demonstrations, guided practice and feedback. Participants will develop <span class="fill">[a draft StoryMap / map / linkage plan]</span>. The team will assess learning through <span class="fill">[a practical exercise, completed product and participant feedback]</span> and provide <span class="fill">[materials or follow-up support]</span> for continued use.
+> GeoALS experts will provide <span class="fill">[N]</span> training sessions on <span class="fill">[ArcGIS StoryMaps / GIS fundamentals / environmental data linkage / other topic]</span> for <span class="fill">[audience]</span>. Instruction will use <span class="fill">[public or synthetic data]</span> and combine demonstrations, guided practice and feedback. Participants will develop <span class="fill">[a draft StoryMap / map / linkage plan]</span>. The team will assess learning through <span class="fill">[a practical exercise, completed product and participant feedback]</span> and provide <span class="fill">[materials or follow-up support]</span> for continued use.
 
-For a StoryMaps workshop, specify the intended audience for the story, its sources, accessibility review and publication review. See [Training with GeOALS](training.md).
+For a StoryMaps workshop, specify the intended audience for the story, its sources, accessibility review and publication review. See [Training with GeoALS](training.md).
 
 ## Approach paragraphs
 

@@ -45,7 +45,7 @@ The goal is reproducible spatial analysis and standards-based storage.
 
 ## Training for your team
 
-GeOALS experts can tailor a workshop, short course or mentoring session to your group's goals. Topics include StoryMaps, GIS fundamentals, web maps and dashboards, environmental linkage, data standards and location privacy. See [Training with GeOALS](../grants/training.md) for the training menu and an example project.
+GeoALS experts can tailor a workshop, short course or mentoring session to your group's goals. Topics include StoryMaps, GIS fundamentals, web maps and dashboards, environmental linkage, data standards and location privacy. See [Training with GeoALS](../grants/training.md) for the training menu and an example project.
 
 ## Open source tools
 
